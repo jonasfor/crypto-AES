@@ -1,0 +1,7 @@
+EXPORTS
+    Compartilhar @1
+    convert @2
+    criptografa_AES @3
+    descriptografa_AES @4
+    gerador_chave @5
+    gerador_divisao_bloco @6
